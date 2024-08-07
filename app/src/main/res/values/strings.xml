@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">MetroGo</string>
+    <string-array name="all_sations">
+        <item>please select</item>
+        <item>abdou pasha</item>
+        <item>adly mansour</item>
+        <item>ain helwan</item>
+        <item>ain shams</item>
+        <item>alf masken</item>
+        <item>al ahram</item>
+        <item>al-shohadaa</item>
+        <item>al tawfikeya</item>
+        <item>al sayeda zeinab</item>
+        <item>ataba</item>
+        <item>bab el shaaria</item>
+        <item>boulaq al dakrour</item>
+        <item>cairo stadium</item>
+        <item>cairo university</item>
+        <item>dar el-salam</item>
+        <item>dokki</item>
+        <item>el-abaseya</item>
+        <item>el behoos</item>
+        <item>el-bohy</item>
+        <item>el-demerdash</item>
+        <item>el geish</item>
+        <item>el haykestep</item>
+        <item>el-maasara</item>
+        <item>el-malek el-saleh</item>
+        <item>el-marg</item>
+        <item>el-matareyya</item>
+        <item>el mounib</item>
+        <item>el-nozha</item>
+        <item>el-qawmia</item>
+        <item>el-shams club</item>
+        <item>el-zahraa</item>
+        <item>ezbet el-Nakhl</item>
+        <item>fair zone</item>
+        <item>faisal</item>
+        <item>gameat al dewal al arabeya</item>
+        <item>ghamra</item>
+        <item>giza</item>
+        <item>hadayeq el-maadi</item>
+        <item>hadayeq el-zaitoun</item>
+        <item>hadayeq helwan</item>
+        <item>hammamat el-qobba</item>
+        <item>helmeyet el-zaitoun</item>
+        <item>heliopolis square</item>
+        <item>Haroun</item>
+        <item>helwan</item>
+        <item>helwan university</item>
+        <item>hisham barakat</item>
+        <item>imbaba</item>
+        <item>kit kat</item>
+        <item>khalafawy</item>
+        <item>kobri el-qobba</item>
+        <item>koleyet el banat</item>
+        <item>koliet el-zeraa</item>
+        <item>kozzika</item>
+        <item>maadi</item>
+        <item>maspero</item>
+        <item>mar girgis</item>
+        <item>massara</item>
+        <item>manshiet el-sadr</item>
+        <item>mohamed naguib</item>
+        <item>mezallat</item>
+        <item>new el-marg</item>
+        <item>nasser</item>
+        <item>omar ibn el khattab</item>
+        <item>omm el misryeen</item>
+        <item>opera</item>
+        <item>qubaa</item>
+        <item>Ring Road</item>
+        <item>road el-farag</item>
+        <item>rod al-farag corridor</item>
+        <item>saad zaghloul</item>
+        <item>sainte teresa</item>
+        <item>sakiat mekki</item>
+        <item>sadat</item>
+        <item>saray el-qobba</item>
+        <item>shobra el kheima</item>
+        <item>Sudan</item>
+        <item>thakanat el-maadi</item>
+        <item>tora el-asmant</item>
+        <item>tora el-balad</item>
+        <item>urabi</item>
+        <item>wadi el nile</item>
+        <item>wadi hoff</item>
+        <item>zamalek</item>
+
+
+    </string-array>
+</resources>
